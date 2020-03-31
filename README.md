@@ -1,6 +1,2 @@
 # python
-
-Links:
-https://www.python.org/
-https://www.pythonforbeginners.com/
-https://pyformat.info/
+https://alexandroshub.github.io/python.html
